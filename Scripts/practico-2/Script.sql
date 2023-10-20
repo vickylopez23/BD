@@ -1,3 +1,4 @@
+--PRACTICO 2
 DROP DATABASE IF EXISTS world;
 
 CREATE DATABASE world;
@@ -161,3 +162,4 @@ WHERE Population BETWEEN 35000000 AND 45000000
 ORDER BY Population DESC;
 
 -- Identificar las redundancias en el esquema final.
+
