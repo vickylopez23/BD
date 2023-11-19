@@ -13,5 +13,8 @@ cd app
 //importo
 mongoimport --host <host> --db restaurantdb --collection restaurants --drop --file restaurantdb/restaurants.json
 
-//mongosh
+//utilizo
+mongosh
+
+//finalmente uso la bd
 use restaurantdb
